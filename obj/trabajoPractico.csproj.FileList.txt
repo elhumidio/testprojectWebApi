@@ -1,0 +1,9 @@
+obj\Debug\trabajoPractico.exe
+obj\Debug\trabajoPractico.pdb
+bin\Debug\trabajoPractico.exe
+bin\Debug\trabajoPractico.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\trabajoPractico.Form1.resources
+obj\Debug\trabajoPractico.Properties.Resources.resources
+obj\Debug\trabajoPractico.csproj.GenerateResource.Cache
+bin\Debug\trabajoPractico.exe.config

@@ -1,0 +1,8 @@
+C:\Documents and Settings\alumno\Mis documentos\Visual Studio 2005\Projects\trabajoPractico\trabajoPractico\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\alumno\Mis documentos\Visual Studio 2005\Projects\trabajoPractico\trabajoPractico\obj\Debug\trabajoPractico.Form1.resources
+C:\Documents and Settings\alumno\Mis documentos\Visual Studio 2005\Projects\trabajoPractico\trabajoPractico\obj\Debug\trabajoPractico.Properties.Resources.resources
+C:\Documents and Settings\alumno\Mis documentos\Visual Studio 2005\Projects\trabajoPractico\trabajoPractico\obj\Debug\trabajoPractico.csproj.GenerateResource.Cache
+C:\Documents and Settings\alumno\Mis documentos\Visual Studio 2005\Projects\trabajoPractico\trabajoPractico\bin\Debug\trabajoPractico.exe
+C:\Documents and Settings\alumno\Mis documentos\Visual Studio 2005\Projects\trabajoPractico\trabajoPractico\bin\Debug\trabajoPractico.pdb
+C:\Documents and Settings\alumno\Mis documentos\Visual Studio 2005\Projects\trabajoPractico\trabajoPractico\obj\Debug\trabajoPractico.exe
+C:\Documents and Settings\alumno\Mis documentos\Visual Studio 2005\Projects\trabajoPractico\trabajoPractico\obj\Debug\trabajoPractico.pdb
